@@ -13,3 +13,6 @@ This repo will contain three notebooks:
 
 ## Published Article
 https://towardsdatascience.com/nlp-project-with-augmentation-attacks-aspect-based-sentiment-analysis-3342510c90e7
+
+## Attack on a trained LSTM model!
+![TextAttack_In_Progress](https://user-images.githubusercontent.com/84154105/153041919-02df48fb-0be1-4194-9990-a3182386c3c8.gif)
